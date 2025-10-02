@@ -3,7 +3,7 @@
 
 // Google Apps Script Configuration
 const GAS_CONFIG = {
-  WEB_APP_URL: 'https://script.google.com/macros/s/AKfycbwbIc1YqjfYY6GtvrE2J3qZ0bOuYmYDkAEkB6ReIcbqBM5fnTwUim3doyUbJicKfE8mww/exec'
+  WEB_APP_URL: 'https://script.google.com/macros/s/AKfycbwTK7CCfGtt1dOZbbwrmfhARAzoKRBOFoRH6X1DOjC-g0DNacsMI4rQc2jfXxwIhKiWzQ/exec'
 };
 
 // Global Variables
@@ -895,4 +895,5 @@ window.removeFilePPPK = removeFilePPPK;
 window.removeFilePAK = removeFilePAK;
 window.viewDocument = viewDocument;
 window.editDocument = editDocument;
+
 window.deleteDocument = deleteDocument;
